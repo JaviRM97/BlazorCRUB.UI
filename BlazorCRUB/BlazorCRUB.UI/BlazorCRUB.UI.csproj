@@ -9,4 +9,10 @@
     <ProjectReference Include="..\BlazorCRUB.Model\BlazorCRUB.Model.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Data\" />
+    <Folder Include="Interfaces\" />
+    <Folder Include="Services\" />
+  </ItemGroup>
+
 </Project>
